@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Account"
+        android:id="@+id/acc"
+        android:orderInCategory="100"
+
+        >
+
+    </item>
+
+
+    <item
+        android:title="Change Password"
+        android:id="@+id/priv"
+        android:orderInCategory="101"
+
+        >
+
+    </item>
+
+    <item
+        android:title="Setting"
+        android:id="@+id/set"
+        android:orderInCategory="102"
+
+        >
+
+    </item>
+
+    <item
+        android:title="About_app"
+        android:id="@+id/abt"
+        android:orderInCategory="103"
+
+        >
+
+    </item>
+
+    <item
+        android:title="Log_out"
+        android:id="@+id/lg"
+        android:orderInCategory="104"
+
+        >
+
+    </item>
+
+
+
+</menu>
